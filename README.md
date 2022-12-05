@@ -11,11 +11,11 @@ Find me on
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 ### Knowledge
-**Testing tools** Selenium IDE, Xpath, Robotframework, Bendicam, Chrome DevTools, FireBug 
-**OS:** Windows, Linux Ubuntu (user knowledge)
-**Programming languages:** Java, C++ (basics), Python
-**Web Development:** JavaScript, HTML, CSS3, SQL, Divi, Elementor, WordPress, Joomla
-**Development tools:** NetBeans, Eclipse, Pycharm
+**Testing tools:** Selenium IDE, Xpath, Robotframework, Bendicam, Chrome DevTools, FireBug\
+**OS:** Windows, Linux Ubuntu (user knowledge)\
+**Programming languages:** Java, C++ (basics), Python\
+**Web Development:** JavaScript, HTML, CSS3, SQL, Divi, Elementor, WordPress, Joomla\
+**Development tools:** NetBeans, Eclipse, Pycharm\
 **Project Management Tools:** JIRA, GitHub, Red Beans
 
 ### Courses
